@@ -7,7 +7,7 @@ Converts Prison Architect .prison files to The Escapists .proj file for use in T
 
 **How to use**
 
-1. Download and extract ArchitectToEscapists.7z with winrar or 7-zip
+1. Download and extract ArchitectToEscapists.zip with winrar or 7-zip
 2. Launch ArchitectToEscapist.exe
 3. Select your Prison Architect .prison file that you want to convert for use in The Escapists
 4. Select the tileset that you want to use in the map (Colour and theme of the map)
