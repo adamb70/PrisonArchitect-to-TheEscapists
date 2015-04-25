@@ -17,5 +17,9 @@ Converts Prison Architect .prison files to The Escapists .proj file for use in T
 8. Follow the validation instructions in the editor
 9. Export from the editor and run in-game!
 
+**Issues**
+
+This will only work with Prison Architect maps that are 107x107 tiles and below. (Default small Prison Architect map are 100x80, default medium maps are 150x120)
+
 
 [![PayPayl donate button](https://img.shields.io/badge/paypal-donate-brightgreen.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=SUQ2TSJD2U82Y "Donate to this project using Paypal")
