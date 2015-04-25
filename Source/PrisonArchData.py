@@ -121,7 +121,7 @@ def getObjectData(prisonfile):
             objectlist.remove(string)
         elif 'Foreman' in str(string):
             objectlist.remove(string)
-        elif 'Cook' in str(string):
+        elif 'Cook ' in str(string):
             objectlist.remove(string)
         else:
             pass
