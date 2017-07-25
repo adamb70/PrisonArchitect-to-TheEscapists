@@ -1,5 +1,5 @@
 [![Version button](https://img.shields.io/github/release/adamb70/PrisonArchitect-to-TheEscapists.svg)](https://github.com/adamb70/PrisonArchitect-to-TheEscapists/releases)
-[![Download button](https://img.shields.io/badge/download-here-blue.svg)](http://bit.ly/ArchitectToEscapist)
+[![Download button](https://img.shields.io/badge/download-here-blue.svg)](http://bit.ly/ArchitectToEscapistReUp)
 
 **Description**
 
